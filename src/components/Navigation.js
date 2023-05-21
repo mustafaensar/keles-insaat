@@ -1,7 +1,6 @@
 import React from 'react'
 import logo from '../img/logo192.png'
 import { Navbar, Nav, Container } from 'react-bootstrap';
-import "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
 
 export default function Navigation() {
   return (
