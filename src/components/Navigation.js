@@ -15,7 +15,7 @@ export default function Navigation() {
 
           </Navbar.Brand>
           
-          <Navbar.Toggle aria-controls="basic-navbar-nav" className='bg-dark col-2' />
+          <Navbar.Toggle aria-controls="basic-navbar-nav" className='bg-light col-2' />
           <Navbar.Collapse id="basic-navbar-nav" className='bg-black col-2'>
             <Nav className="me-auto">
               <Nav.Link href="/">ANA SAYFA</Nav.Link>
