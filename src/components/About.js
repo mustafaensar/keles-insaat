@@ -9,8 +9,8 @@ export default function About() {
         <div className="container position-relative">
           <div className="row d-flex justify-content-center">
             <div className="col-lg-6 text-center">
-              <h2>HAKKIMIZDA</h2>
-              <p>Buraya şirket hakkında bilgiler yazılacak.</p>
+              <h2>About Us</h2>
+              <p>This is where you will write information about the company.</p>
               <a href="#" className="facebook"> <i className="bi bi-facebook" /></a>
               <a href="#" className="instagram"> <i className="bi bi-instagram" /></a>
             </div>
@@ -24,9 +24,9 @@ export default function About() {
               <img src={aboutImg} className="img-fluid" alt="" />
             </div>
             <div className="col-lg-5 content">
-              <h2>Şirket Çalışanı</h2>
+              <h2>Worker</h2>
               <p className="fst-italic py-3">
-                Burada şirket çalışanları hakkında bazı bilgiler yazılacak.
+                This is where you will write information about the company.
               </p>
               <div className="row">
                 <div className="col-lg-6">
