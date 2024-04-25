@@ -11,17 +11,17 @@ export default function Navigation() {
 
             {/* Uncomment the line below if you also wish to use an image logo */}
             <img src={logo} alt="" className='' />
-            <h1 className=''>Keleş İnşaat</h1>
+            <h1 className=''>Website Name</h1>
 
           </Navbar.Brand>
           
           <Navbar.Toggle aria-controls="basic-navbar-nav" className='bg-light col-2' />
           <Navbar.Collapse id="basic-navbar-nav" className='bg-black col-2'>
             <Nav className="me-auto">
-              <Nav.Link href="/">ANA SAYFA</Nav.Link>
-              <Nav.Link href='/about'>HAKKIMIZDA</Nav.Link>
-              <Nav.Link href='/gallery'>FOTOĞRAFLAR</Nav.Link>
-              <Nav.Link href='/contact'>İLETİŞİM</Nav.Link>
+              <Nav.Link href="/">Home</Nav.Link>
+              <Nav.Link href='/about'>About Us</Nav.Link>
+              <Nav.Link href='/gallery'>Photos</Nav.Link>
+              <Nav.Link href='/contact'>Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
