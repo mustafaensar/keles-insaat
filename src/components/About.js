@@ -9,7 +9,7 @@ export default function About() {
         <div className="container position-relative">
           <div className="row d-flex justify-content-center">
             <div className="col-lg-6 text-center">
-              <h2>About Us</h2>
+              <h2>About</h2>
               <p>This is where you will write information about the company.</p>
               <a href="#" className="facebook"> <i className="bi bi-facebook" /></a>
               <a href="#" className="instagram"> <i className="bi bi-instagram" /></a>
