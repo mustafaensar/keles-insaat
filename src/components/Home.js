@@ -8,9 +8,9 @@ export default function Home() {
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-6 text-center">
-                <h2>Buraya<span> Sirket Ile Ilgili Bilgiler </span>Yazilacak</h2>
-                <p>Belki sol tarafa bir resim ekleyebilir ve yazilari da sag tarafa kaydirabiliriz.</p>
-                <a href="/gallery" className="btn-get-started">PROJELERİMİZ</a>
+                <h2>Write<span> Information </span>About the Company</h2>
+                <p>Details and images about your company</p>
+                <a href="/gallery" className="btn-get-started">PROJECTS</a>
               </div>
             </div>
           </div>
