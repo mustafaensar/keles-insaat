@@ -19,7 +19,7 @@ export default function Navigation() {
           <Navbar.Collapse id="basic-navbar-nav" className='bg-black col-2'>
             <Nav className="me-auto">
               <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href='/about'>About Us</Nav.Link>
+              <Nav.Link href='/about'>About</Nav.Link>
               <Nav.Link href='/gallery'>Photos</Nav.Link>
               <Nav.Link href='/contact'>Contact</Nav.Link>
             </Nav>
