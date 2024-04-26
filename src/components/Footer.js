@@ -8,7 +8,7 @@ export default function Footer() {
         <footer id="footer" className="footer">
           <div className="container">
             <div className="copyright">
-              © Copyright <strong><span>Keleş İnşaat</span></strong>
+              © Copyright <strong><span>Website Name</span></strong>
             </div>
             <div className="header-social-links">
             
