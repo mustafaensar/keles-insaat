@@ -9,7 +9,7 @@ export default function Contact() {
           <div className="container position-relative">
             <div className="row d-flex justify-content-center">
               <div className="col-lg-6 text-center">
-                <h2>Contact Us</h2>
+                <h2>Contact</h2>
                 <p>You can send an email for project inquiries or reach us by phone. Additionally, you can also contact us through the form below.</p>
               </div>
             </div>
